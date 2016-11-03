@@ -5,7 +5,10 @@ Simple extension for chrome helping in debugging AngularJS. It sets watchers for
 Instalation
 -
 Extension **isn't** available on Google Chrome Store because of required payment which is ridiculous in my opinion. 
-If you want to install my extension then download `uiRouterWatcher.crx`, go to Chrome->settings->extensions and drag&drop `uiRouterWatcher.crx` to Chrome window.
+If you want to install my extension:
+* download `uiRouterWatcher.crx` 
+* go to Chrome->settings->extensions 
+* drag&drop `uiRouterWatcher.crx` to Chrome window.
 
 About
 -
